@@ -119,7 +119,7 @@ We insisted on using a variety of non-overlapping circles to enrich the image, w
 **Inability to adhere to section 1:**
 - Although we initially planned to keep the design uncomplicated by using only solid circles, in practice, we realised that this single form could not adequately showcase the diversity. As a result, we added stroke circles to the final design to add layers and variety. This change made the work visually richer and better reflected our design intent and artistic inspiration.
 
-## Section 3 – ImplementationSection 4 – Technical overview
+## nSection 4 – Technical overview
 The Code screenshots and comments
 ![The final coding](assets/code1.jpg)
 ![The final coding](assets/code2.jpg)
