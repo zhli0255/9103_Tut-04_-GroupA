@@ -3,27 +3,35 @@
 ## Section 1 – Research and inspiration:
 When we first saw this artwork, we were drawn in by the vibrant colors and dynamic composition. 
 ![An image our choosen graphic "Wheels of Fortune"](assets/Pacita_Abad_Wheels_of_fortune.jpg)
+
 *(Abad, 2000)*
+
 When we began exploring it, we embarked on a journey filled with curiosity and wonder. My approach to understanding and representing this artwork was inspired by sources that shed light on Abad’s life, her artistic vision, and the themes she explored.
 We learnt about Abad's background and the stories behind her art helped us grasp the essence of **"Wheels of Fortune"**. Pacita Barsana Abad (October 5, 1946 – December 7, 2004) was an Ivatan and Filipino-American artist and is well-known for her special paintings that were inspired by quilting, where she filled and decorated the canvas with items like buttons, beads, and shells *(Abad, 2000)*. Her vibrant use of colors and dynamic compositions intrigued us, and we found ourselves drawn to the energy and emotion she infused into her work. Understanding the artist's perspective allowed me to appreciate the deeper layers of meaning within the painting. 
 This artwork inspired us to decorate our work by using different shapes and using vibrant color to convey a positive attitude.
 
 Additionally, we were also inspried by In Vassily Kandinsky's artwork "Several Circles," where you can see many colorful circles overlapping and intersecting each other.
 !["Several Circles" by Vassily Kandinsky](assets/Several_Circles.jpg)
+
 *(Kandinsky, 1926)*
+
 The circles vary in size and color, creating a sense of movement and rhythm across the canvas. Some circles are bold and vibrant, while others are more subdued. The way the circles interact with each other gives the painting a dynamic and lively feel. It's like looking into a world of swirling colors and shapes, where each circle has its own unique energy and presence.
 
 At the same time, we also find some artworks to be our precedents.
 ![The pattern on the fabric](assets/quilt_fabric.png)
+
 *(Quilt Fabric, Largest Selection of Quilting Fabrics- Free Quilt Patterns- EQuilter.com!, n.d.)*
 
 ![Textile Texture Background](assets/Textile_Texture_Background.jpg)
+
 *(tree, n.d.)*
 
 ![Abstract dot pattern stock illustration (AI generated)](assets/abstract_dot_pattern_stock_illustration.jpg)
+
 *(art-pik, n.d.)*
 
 ![Many Colored Circles and Colorful Dots in the Style of Intricate Psychedelic Art (AI generated)](assets/Intricate_Psychedelic_Art.jpg)
+
 *(user23538080, n.d.)*
 
 ### Reference:
@@ -66,7 +74,7 @@ Naimeng used PS techniques to change the colour scheme based on @user23538080 to
 Yihan created the design idea using hand-drawing. She wanted to use a circle as the basis of the design and surround it with small elements (e.g. hollow circles, rectangles, lines, etc.). She also wrote a simple code to achieve this effect based on this hand-drawn design.
 ![Yihan's creative design 1](assets/yihan_1.jpg)
 ![Yihan's creative design 2](assets/yihan_2.jpg)
-![Yihan's creative design 3](assets/yihan_3.jpg)
+![Yihan's creative design 3](assets/yihan_3.png)
 
 
 Zhuoran used p5js to simulate her desired effect; she wanted each circle to present a different design. For example, the surrounding elements are circles, rectangles, or triangles.
@@ -82,18 +90,22 @@ During the pre-design brainstorming phase, each group member had a different ide
 ![Iteration 1](assets/iteration1.png)
 
 **Iteration 2:**We added more elements, such as the star, which we thought would make the overall picture look richer. We also felt that the colours in iteration 1 needed to be less, so we all agreed that we could unify the colours in iteration 2 into a warm color.
+![Iteration 2](assets/iteration2.jpg)
 
 **Iteration 3:**However, we could not distinguish the uniqueness of each circle with a uniform warm colour palette. Therefore, we decided to set the fixed colour. These are light red, orange, light orange, yellow and peach. These colour choices are warm and visually present a more uniform and aesthetically pleasing artistic effect.
+![Iteration 3](assets/iteration3.jpg)
 
-**Iteration 4:**With such a colour palette, we thought of the sun. We decided to incorporate the line element in iteration 4 so that the line emits from the circle's centre, adding to the aesthetics.
-
+**Iteration 4:**With such a colour palette, we thought of the sun. We decided to incorporate the line element in iteration 4 so that the line emits from the circle's centre, adding to the aesthetics.\
+![Iteration 4](assets/iteration4.jpg)
 
 **Iteration 5:**We found that the star elements in iteration 4 were cluttering up our work. So, we incorporated the hexagons into iteration 5 and discarded the star elements.
-
+![Iteration 5](assets/iteration5.jpg)
 
 **Iteration 6:**We found that all the current circles are solid, and to show the difference between each circle, it occurred to us that we could replace some of the solid circles with stroked circles to increase the variety and layering of the clusters.
+![Iteration 6](assets/iteration6.jpg)
 
 **Iteration 7 (final work):**We're happy with the iteration 6; the only thing that needs to be added is that the triangles in iteration 6 didn't fit in with the overall picture, so in iteration 7, we've eliminated the triangles.
+![Iteration 7](assets/iteration7.jpg)
 
 ### Summarize how we were able or unable to stick to the plan in Part 1
 Throughout the realisation process, we made iterative adjustments. Eventually, we incorporated the core elements of our initial inspiration into the piece, such as vibrant colours and non-overlapping circles. Although we simplified and tweaked certain aspects, these changes were made to achieve a better artistic effect and visual presentation. Therefore, we stuck to the plan in section 1, making the necessary adjustments and optimisations according to the actual situation.
