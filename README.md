@@ -68,43 +68,42 @@ We will be using several functions to draw different shapes and patterns togethe
 ### Pre-design divergent thinking stage
 Based on our choice of Pacita Aba's Wheel of Fortune, other sources of inspiration and general technical planning, we shared our design ideas with our group members through Photoshop, hand-drawing and basic p5js code. Below:
 
-Naimeng used PS techniques to change the colour scheme based on @user23538080 to change the colour scheme based on her design, and she wanted to present a similar vibrant palette in our group work.
+- Naimeng used PS techniques to change the colour scheme based on @user23538080 to change the colour scheme based on her design, and she wanted to present a similar vibrant palette in our group work.
 ![Naimeng's creative design](assets/Naimeng.jpg)
 
-Yihan created the design idea using hand-drawing. She wanted to use a circle as the basis of the design and surround it with small elements (e.g. hollow circles, rectangles, lines, etc.). She also wrote a simple code to achieve this effect based on this hand-drawn design.
+- Yihan created the design idea using hand-drawing. She wanted to use a circle as the basis of the design and surround it with small elements (e.g. hollow circles, rectangles, lines, etc.). She also wrote a simple code to achieve this effect based on this hand-drawn design.
 ![Yihan's creative design 1](assets/yihan_1.jpg)
 ![Yihan's creative design 2](assets/yihan_2.jpg)
 ![Yihan's creative design 3](assets/yihan_3.png)
 
-
-Zhuoran used p5js to simulate her desired effect; she wanted each circle to present a different design. For example, the surrounding elements are circles, rectangles, or triangles.
+- Zhuoran used p5js to simulate her desired effect; she wanted each circle to present a different design. For example, the surrounding elements are circles, rectangles, or triangles.
 ![Zhuoran's creative design](assets/zhuoran.png)
 
-Zhihao created an ‘infinite circle’ effect through hand-drawing, a concept he wanted to incorporate into the final work. He believes that the circle is closely related to π (pi), which is an infinite, non-recurring decimal number and symbolizes the theme of the ‘wheels of fortune’.
+- Zhihao created an ‘infinite circle’ effect through hand-drawing, a concept he wanted to incorporate into the final work. He believes that the circle is closely related to π (pi), which is an infinite, non-recurring decimal number and symbolizes the theme of the ‘wheels of fortune’.
 ![Zhihao's creative design](assets/zhihao.jpg)
 
 ### Iteration process
 During the pre-design brainstorming phase, each group member had a different idea. After a group meeting, we agreed to use Zhuoran's code as the basis for our design and then incorporate everyone's design ideas as much as possible.
 
-**Iteration 1:**Too much overlap between patterns will make the project too confusing. So, in iteration 1, there will be no overlap between patterns. At the same time, we increase the number of circles so that fill the canvas space of the project as much as possible. At this stage, we will keep the plan from section 1.
+**Iteration 1:** Too much overlap between patterns will make the project too confusing. So, in iteration 1, there will be no overlap between patterns. At the same time, we increase the number of circles so that fill the canvas space of the project as much as possible. At this stage, we will keep the plan from section 1.
 ![Iteration 1](assets/iteration1.png)
 
-**Iteration 2:**We added more elements, such as the star, which we thought would make the overall picture look richer. We also felt that the colours in iteration 1 needed to be less, so we all agreed that we could unify the colours in iteration 2 into a warm color.
+**Iteration 2:** We added more elements, such as the star, which we thought would make the overall picture look richer. We also felt that the colours in iteration 1 needed to be less, so we all agreed that we could unify the colours in iteration 2 into a warm color.
 ![Iteration 2](assets/iteration2.jpg)
 
-**Iteration 3:**However, we could not distinguish the uniqueness of each circle with a uniform warm colour palette. Therefore, we decided to set the fixed colour. These are light red, orange, light orange, yellow and peach. These colour choices are warm and visually present a more uniform and aesthetically pleasing artistic effect.
+**Iteration 3:** However, we could not distinguish the uniqueness of each circle with a uniform warm colour palette. Therefore, we decided to set the fixed colour. These are light red, orange, light orange, yellow and peach. These colour choices are warm and visually present a more uniform and aesthetically pleasing artistic effect.
 ![Iteration 3](assets/iteration3.jpg)
 
-**Iteration 4:**With such a colour palette, we thought of the sun. We decided to incorporate the line element in iteration 4 so that the line emits from the circle's centre, adding to the aesthetics.\
+**Iteration 4:** With such a colour palette, we thought of the sun. We decided to incorporate the line element in iteration 4 so that the line emits from the circle's centre, adding to the aesthetics.\
 ![Iteration 4](assets/iteration4.jpg)
 
-**Iteration 5:**We found that the star elements in iteration 4 were cluttering up our work. So, we incorporated the hexagons into iteration 5 and discarded the star elements.
+**Iteration 5:** We found that the star elements in iteration 4 were cluttering up our work. So, we incorporated the hexagons into iteration 5 and discarded the star elements.
 ![Iteration 5](assets/iteration5.jpg)
 
-**Iteration 6:**We found that all the current circles are solid, and to show the difference between each circle, it occurred to us that we could replace some of the solid circles with stroked circles to increase the variety and layering of the clusters.
+**Iteration 6:** We found that all the current circles are solid, and to show the difference between each circle, it occurred to us that we could replace some of the solid circles with stroked circles to increase the variety and layering of the clusters.
 ![Iteration 6](assets/iteration6.jpg)
 
-**Iteration 7 (final work):**We're happy with the iteration 6; the only thing that needs to be added is that the triangles in iteration 6 didn't fit in with the overall picture, so in iteration 7, we've eliminated the triangles.
+**Iteration 7 (final work):** We're happy with the iteration 6; the only thing that needs to be added is that the triangles in iteration 6 didn't fit in with the overall picture, so in iteration 7, we've eliminated the triangles.
 ![Iteration 7](assets/iteration7.jpg)
 
 ### Summarize how we were able or unable to stick to the plan in Part 1
@@ -118,7 +117,7 @@ We have always insisted on using vibrant colours to reflect the vitality and ene
 We insisted on using a variety of non-overlapping circles to enrich the image, which was in line with our inspiration from Vassily Kandinsky's 'Several Circles'. In each iteration, we tried to incorporate different geometric elements and constantly adjusted how they were combined to create a rhythmic composition. In this way, we captured the artwork's sense of flow and vividness.
 
 **Inability to adhere to section 1:**
-Although we initially planned to keep the design uncomplicated by using only solid circles, in practice, we realised that this single form could not adequately showcase the diversity. As a result, we added stroke circles to the final design to add layers and variety. This change made the work visually richer and better reflected our design intent and artistic inspiration.
+- Although we initially planned to keep the design uncomplicated by using only solid circles, in practice, we realised that this single form could not adequately showcase the diversity. As a result, we added stroke circles to the final design to add layers and variety. This change made the work visually richer and better reflected our design intent and artistic inspiration.
 
 ## Section 3 – ImplementationSection 4 – Technical overview
 The Code screenshots and comments
