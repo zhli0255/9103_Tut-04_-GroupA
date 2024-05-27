@@ -148,7 +148,11 @@ By organizing the code into these functions and classes, we achieve a modular an
 
 ## Section 5 – GitHub links
 **Group A member's name and unikey**
+
 Naimeng Zheng nzhe0074
+
 Yihan Xu yixu2046
+
 Zhihao Wang zwan0215
+
 Zhuoran Li zhli0255
