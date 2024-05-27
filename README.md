@@ -7,7 +7,9 @@ When we first saw this artwork, we were drawn in by the vibrant colors and dynam
 *(Abad, 2000)*
 
 When we began exploring it, we embarked on a journey filled with curiosity and wonder. My approach to understanding and representing this artwork was inspired by sources that shed light on Abad’s life, her artistic vision, and the themes she explored.
+
 We learnt about Abad's background and the stories behind her art helped us grasp the essence of **"Wheels of Fortune"**. Pacita Barsana Abad (October 5, 1946 – December 7, 2004) was an Ivatan and Filipino-American artist and is well-known for her special paintings that were inspired by quilting, where she filled and decorated the canvas with items like buttons, beads, and shells *(Abad, 2000)*. Her vibrant use of colors and dynamic compositions intrigued us, and we found ourselves drawn to the energy and emotion she infused into her work. Understanding the artist's perspective allowed me to appreciate the deeper layers of meaning within the painting. 
+
 This artwork inspired us to decorate our work by using different shapes and using vibrant color to convey a positive attitude.
 
 Additionally, we were also inspried by In Vassily Kandinsky's artwork "Several Circles," where you can see many colorful circles overlapping and intersecting each other.
