@@ -56,7 +56,7 @@ We consider using a window frame or a 500*500 grid to put the pattern in it.
 
 We will be using several functions to draw different shapes and patterns together. Here are the main functions we plan to use:
 
-- We will use drawBackground() to draw the background. We considered using a solid color background to highlight different types of circles; Or create class that add small embellishments to the background, or use transparency to distinguish the subject from the background.
+- We will use drawBackground() to draw the background. We considered using a solid color background to highlight different types of circles; Or create class that add small decorations to the background, or use transparency to distinguish the subject from the background.
 
 - We planned to preserve the non-overlapping nature of the main circle because we wanted to preserve this one feature of the Wheels of fortune's work. Use createNonOverlapping() to generate non-overlapping circles, call the Circle class method to detect overlapping and randomize the location on the canvas to ensure that the new circle does not overlap with the existing circles.
 
@@ -106,7 +106,7 @@ During the pre-design brainstorming phase, each group member had a different ide
 **Iteration 7 (final work):** We're happy with the iteration 6; the only thing that needs to be added is that the triangles in iteration 6 didn't fit in with the overall picture, so in iteration 7, we've eliminated the triangles.
 ![Iteration 7](assets/iteration7.jpg)
 
-### Summarize how we were able or unable to stick to the plan in Part 1
+### Summarize how we were able or unable to stick to the plan in Section 1
 Throughout the realisation process, we made iterative adjustments. Eventually, we incorporated the core elements of our initial inspiration into the piece, such as vibrant colours and non-overlapping circles. Although we simplified and tweaked certain aspects, these changes were made to achieve a better artistic effect and visual presentation. Therefore, we stuck to the plan in section 1, making the necessary adjustments and optimisations according to the actual situation.
 
 **Stick to the section 1:**
@@ -129,20 +129,26 @@ The Code screenshots and comments
 
 The code is structured to create a canvas with a patterned background and then draw a series of decorated circles on it. The circles are drawn such that they do not overlap. Each circle can have different types of decorative patterns.
 
-Use global various to declare the circles to array and store all circle objects.
-The class handles the creation and drawing of circles with patterns: Initializes the circle's position, size, and type. Draws the circle with multiple layers and applies a pattern. Draws various patterns on the circle based on its type.
+We use global variables to declare an array that stores all circle objects. This array allows us to manage and access each circle throughout the drawing process.
 
-Then create setup and draw functions.
-Initializes the canvas and sets drawing parameters. Creates a canvas that spans the full window. Ensures the draw function runs only once. Disables stroke for shapes.
+This circle class is responsible for the creation and rendering of circles with various patterns. It handles initializing each circle's position, size, and type. The class also contains methods to draw the circle with multiple layers and apply different patterns based on the circle's type.
 
-In the draw function, we need to draw the background pattern. Then, loops to create and draw non-overlapping circles.
+The setup function initializes the canvas and sets the drawing parameters. It creates a canvas that spans the full window, ensuring the drawing area is maximized. It also sets the initial background and ensures that the draw function runs only once. Additionally, strokes for shapes are disabled to maintain a clean aesthetic.
+
+In the draw function, we start by drawing the background pattern using a dedicated function. Then, we enter a loop that creates and draws non-overlapping circles by calling the relevant functions and methods. This loop continues until all the desired circles are placed on the canvas.
+
 Five utility functions be created:
-drawBackgroundPattern(): Draws a pattern of circles in the background.Set the color and loop to random positions, sizes, and warm colors.
+drawBackgroundPattern(): This function is responsible for drawing a pattern of circles in the background. It sets the color and uses a loop to place circles at random positions and sizes, using a palette of warm colors to create an engaging backdrop.
+createNonOverlappingCircle(): This function ensures that new circles do not overlap with existing ones. It attempts to place each circle in a non-overlapping position, looping until a suitable position is found or a maximum number of attempts is reached.
+drawPolygon(): This function draws a polygon with a specified number of points. It calculates the location of each vertex to create the desired polygonal shapes within the circles.
+drawLinesPattern(): This function draws lines radiating from a central point within the circle. It randomly generates lines within a specified radius, adding dynamic linear patterns to the circles.
+randomWarmColor(): This function returns a random warm color with a specified alpha value. It ensures that the color palette remains consistent and vibrant, aligning with the overall aesthetic of the artwork.
 
-createNonOverlappingCircle(): Create a circle that doesn't overlap with existing circles. Judge in the attempt: Loops until a non-overlapping position is found or the maximum attempts are reached.
+By organizing the code into these functions and classes, we achieve a modular and easily understandable structure. Each component has a clear responsibility, allowing for straightforward adjustments and extensions if needed. The non-overlapping placement of circles, combined with varied decorative patterns, creates a visually appealing representation.
 
-drawPolygon Function: Draws a polygon with given number of points. Calculates the location of vertices of each polygon.
-
-drawLinesPattern(): Draws lines radiating from a point. Randomly generates lines within a radius.
-
-randomWarmColor(): Returns a random warm color with specified alpha value.
+## Section 5 – GitHub links
+**Group A member's name and unikey**
+Naimeng Zheng nzhe0074
+Yihan Xu yixu2046
+Zhihao Wang zwan0215
+Zhuoran Li zhli0255
