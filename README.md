@@ -138,10 +138,15 @@ The setup function initializes the canvas and sets the drawing parameters. It cr
 In the draw function, we start by drawing the background pattern using a dedicated function. Then, we enter a loop that creates and draws non-overlapping circles by calling the relevant functions and methods. This loop continues until all the desired circles are placed on the canvas.
 
 Five utility functions be created:
+
 drawBackgroundPattern(): This function is responsible for drawing a pattern of circles in the background. It sets the color and uses a loop to place circles at random positions and sizes, using a palette of warm colors to create an engaging backdrop.
+
 createNonOverlappingCircle(): This function ensures that new circles do not overlap with existing ones. It attempts to place each circle in a non-overlapping position, looping until a suitable position is found or a maximum number of attempts is reached.
+
 drawPolygon(): This function draws a polygon with a specified number of points. It calculates the location of each vertex to create the desired polygonal shapes within the circles.
+
 drawLinesPattern(): This function draws lines radiating from a central point within the circle. It randomly generates lines within a specified radius, adding dynamic linear patterns to the circles.
+
 randomWarmColor(): This function returns a random warm color with a specified alpha value. It ensures that the color palette remains consistent and vibrant, aligning with the overall aesthetic of the artwork.
 
 By organizing the code into these functions and classes, we achieve a modular and easily understandable structure. Each component has a clear responsibility, allowing for straightforward adjustments and extensions if needed. The non-overlapping placement of circles, combined with varied decorative patterns, creates a visually appealing representation.
