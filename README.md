@@ -1,4 +1,4 @@
-# 9103_Tut-04_-GroupA
+# 9103_Tut-04_GroupA
 
 ## Section 1 – Research and inspiration:
 When we first saw this artwork, we were drawn in by the vibrant colors and dynamic composition. 
