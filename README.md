@@ -1,6 +1,6 @@
 # 9103_Tut-04_GroupA
 
-## Section 1 – Research and inspiration:
+## Section 1 – Research and inspiration
 When we first saw this artwork, we were drawn in by the vibrant colors and dynamic composition. 
 ![An image our choosen graphic "Wheels of Fortune"](assets/Pacita_Abad_Wheels_of_fortune.jpg)
 
